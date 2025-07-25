@@ -1,0 +1,9 @@
+openai
+pandas
+numpy
+tqdm
+scikit-learn
+jupyterlab
+matplotlib
+python-dotenv
+dspy-ai
