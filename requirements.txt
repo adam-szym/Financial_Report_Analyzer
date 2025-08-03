@@ -1,4 +1,3 @@
-openai
 pandas
 numpy
 tqdm
@@ -6,4 +5,9 @@ scikit-learn
 jupyterlab
 matplotlib
 python-dotenv
+PyPDF2
+faiss-cpu
+sentence-transformers
+openai
+langchain
 dspy-ai
